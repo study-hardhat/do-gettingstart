@@ -1,1 +1,1 @@
-# do-gettingstart
+# do-gettingstarted
